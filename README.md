@@ -1,2 +1,7 @@
 # PreventiveHealthCare-Analytics
-An end-to-end Power BI Data Analytics project
+End-to-End Data Analytics project automating healthcare data pipeline using Python, SQL Server, and Power BI.
+
+##  Tech Stack & Analytical Ecosystem
+* **ETL Ingestion Engine:** Python (Pandas)
+* **Relational Database Server:** Microsoft SQL Server (SSMS)
+* **Business Intelligence Tool:** Power BI Desktop
