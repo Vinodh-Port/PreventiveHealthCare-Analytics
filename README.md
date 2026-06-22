@@ -1,5 +1,5 @@
 # PreventiveHealthCare-Analytics
-End-to-End Data Analytics project automating healthcare data pipeline using Python, SQL Server, and Power BI.
+End-to-End Data Analytics project automating healthcare data pipeline using Excel, SQL Server, and Power BI.
 
 ##  Tech Stack & Analytical Ecosystem
 * **Data Extraction & Ingestion (ETL):** Microsoft Excel, CSV
